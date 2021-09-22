@@ -1,0 +1,1 @@
+[zipped,info]=norm2huff(1 2 3 4 5)
